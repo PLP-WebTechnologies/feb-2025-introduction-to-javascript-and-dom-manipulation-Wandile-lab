@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: peru;    
+}
+
+
+ul{
+    list-style-position: inside;
+    padding: 0
+}
+
+.popup{
+    font-size: 90px;
+    color: red;
+}
+
+#button1, #button2, #button3{
+    background-color: brown;
+    color: white;
+}
